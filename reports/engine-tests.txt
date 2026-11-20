@@ -1,0 +1,14 @@
+✔ candidate passes the existing suite (2.318096ms)
+✔ corrected passes the existing suite (0.567191ms)
+✔ revision fixes the baseline equality defect (0.293989ms)
+✔ delivery crossing threshold exposes regression (0.341549ms)
+✔ corrected revision ignores delivery across boundary matrix (1.568033ms)
+✔ rejects invalid monetary values and revision identifiers (0.841253ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 373.208863
